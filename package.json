@@ -2,7 +2,7 @@
     "name": "healthhub-backend",
     "version": "1.0.0",
     "description": "JSON server for HealthHub app",
-    "main": "index.js",
+    "main": "db.json",
     "scripts": {
       "server": "json-server --watch db.json --port 3001"
     },
